@@ -1,8 +1,6 @@
 #EXl-read
 #read from Excel files from the B Row and plots a simple graph in seconds
 
-#made By Ibrahim Haleem Khan
-#github.com/ibrahimhaleemkhan
 #more support coming soon
 #more graphs Coming soon
 #more rows coming soon
